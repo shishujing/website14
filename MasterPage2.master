@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage2.master.cs" Inherits="MasterPage2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<table style="width: 1000px; background-color: #ffdead;" border="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="height: 439px; width: 248px;" border="0" align="center">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table style="height: 450px; width: 600px;" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;<img style="vertical-align: middle;" src="images/button1.png" alt="button1" width="200" height="150" /></td>
+<td>&nbsp;<img src="images/button2.png" alt="button2" width="200" height="150" /></td>
+<td style="text-align: center;"><img src="images/button3.png" alt="button3" width="200" height="150" />&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<img style="vertical-align: middle;" src="images/button4.png" alt="button4" width="200" height="150" /></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><img style="vertical-align: middle;" src="images/button5.png" alt="button5" width="200" height="150" />&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<img style="vertical-align: middle;" src="images/button6.png" alt="button6" width="200" height="150" /></td>
+<td style="text-align: center;"><img src="images/button7.png" alt="button7" width="200" height="150" />&nbsp;</td>
+<td style="text-align: center;"><img style="vertical-align: middle;" src="images/button8.png" alt="button8" width="200" height="150" />&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2">&nbsp;<img style="vertical-align: middle;" src="images/globe.png" alt="globe" width="844" height="417" /></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
